@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: green;
+}
+
+body {
+    background: white url("images/background.jpeg");
+}
